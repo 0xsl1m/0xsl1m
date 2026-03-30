@@ -27,7 +27,7 @@ Infra         Docker, Linux, Vercel, n8n, SOPS / age
 
 ### Kitchen
 
-Executive Chef at [Anthem](https://eatdrinkanthem.com) in Omaha — tex-asian fusion, 200 covers, full P&L. Previously: Plank Provisions, Flagship Commons (7-concept food hall, 50+ staff), Vincenzo's, Blatt Beer & Table (8 years). The method is the same whether you're calling tickets on the line or orchestrating AI agents.
+15 years of professional kitchens — executive chef roles, high-volume operations, full P&L ownership. The method is the same whether you're calling tickets on the line or orchestrating AI agents.
 
 ---
 
